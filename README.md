@@ -11,7 +11,7 @@ Via NPM:
 
 ```bash
 npm install goupy
-
+```
 
 ## Funcionalidades principais
 
@@ -77,3 +77,4 @@ console.log(reshaped);
 const flat = goupy.flatten(reshaped);
 console.log(flat); // [1 2 3]
 
+```
